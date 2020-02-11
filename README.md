@@ -1,1 +1,1 @@
-# Learning-Experience-Lab
+You are encouraged to use, remix, and translate this activity. However, you must credit the original creators, and you must release whatever you create under a Creative Commons license. More info at https://creativecommons.org/licenses/by-sa/4.0/.
