@@ -14,7 +14,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:56
 DataFormat:sfntData
 hasSVG:no
@@ -39,7 +39,7 @@ WidthClass:5
 AngleClass:1
 FullName:PT Sans Italic
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:388
 DataFormat:sfntData
 hasSVG:no
@@ -64,7 +64,7 @@ WidthClass:3
 AngleClass:0
 FullName:PT Sans Narrow Bold
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:720
 DataFormat:sfntData
 hasSVG:no
@@ -89,7 +89,7 @@ WidthClass:3
 AngleClass:0
 FullName:PT Sans Narrow
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:1052
 DataFormat:sfntData
 hasSVG:no
@@ -114,7 +114,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans Caption Bold
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:1384
 DataFormat:sfntData
 hasSVG:no
@@ -139,7 +139,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans Caption
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:1716
 DataFormat:sfntData
 hasSVG:no
@@ -164,7 +164,7 @@ WidthClass:5
 AngleClass:1
 FullName:PT Sans Bold Italic
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:2048
 DataFormat:sfntData
 hasSVG:no
@@ -189,7 +189,7 @@ WidthClass:5
 AngleClass:0
 FullName:PT Sans Bold
 WritingScript:Roman
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/PTSans.ttc
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/PTSans.ttc
 TTCOffset:2380
 DataFormat:sfntData
 hasSVG:no
@@ -204,8 +204,8 @@ NameArray:0,Win,1,PT Sans
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Videokonferenz-Karten_(R)/Document fonts/AdobeFnt20.lst
-FileLength:5253
-FileModTime:607849560
+OutlineFileName:/Users/opderdan/Desktop/Projekte/HPI-Schulcloud/02_UX/Videokonferenz-Karten/Schaubild-Schaubild-video conferencing_cards_(R)/02_indesign/Document fonts/AdobeFnt20.lst
+FileLength:5478
+FileModTime:607932835
 %EndFont
 
